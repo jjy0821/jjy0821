@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hi,%20I'm%20JJY0821🙋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20JJY0821🙋&fontSize=90)
 
 ### 💫 Who Am I 
 - I'm currently learning **Node.js, Typescript, Mongodb, Graphql, and AWS**.
